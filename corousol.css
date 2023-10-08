@@ -1,0 +1,14 @@
+.background{
+background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
+background-size:cover;
+height:200vh;
+width:100vw;
+padding:24px
+}
+
+.card{}
+
+.para{
+padding:20px;
+background-color:white;
+}
